@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "532e217c-a2b4-4ad5-bc36-8ea393767f40",
+            "Value": {
+                "id": "6e5a7daa-5500-476c-a004-ca7694c4bfbf",
+                "resourcePath": "objects\\grid\\grid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "59f5c3ad-a8f9-469a-8f46-3e97fb0e34b7",
             "Value": {
                 "id": "ee3f8874-e445-40c0-81c5-f7efddfe7e1b",
